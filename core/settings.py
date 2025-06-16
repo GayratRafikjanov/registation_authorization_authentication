@@ -39,7 +39,7 @@ EXTERNAL_APPS = [
 ]
 
 INTERNAL_APPS = [
-    # 'users',
+    'users',
 ]
 
 INSTALLED_APPS = [
